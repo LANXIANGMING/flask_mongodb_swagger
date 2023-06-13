@@ -1,0 +1,16 @@
+Flask==2.2.5
+blinker==1.4
+#Flask-RESTful==0.3.8
+#Flask-Cors==3.0.8
+flask-restful-swagger-3==0.5.1
+Flask-JSON==0.3.4
+gunicorn==19.10.0
+python-dotenv==0.14.0
+uWSGI==2.0.19.1
+pymongo==3.11.2
+pyopenssl==22.1.0
+requests
+#Jinja2==2.11.3
+#MarkupSafe==1.1.1
+#itsdangerous==1.1.0
+#Werkzeug==
